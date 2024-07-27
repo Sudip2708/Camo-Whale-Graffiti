@@ -1,7 +1,7 @@
 ### Processing a Long Graffiti into a Single Photograph
 [Czech](README.md)
 
-![Google maps](data/2024-07-27_14-45-05.jpg)
+![Google maps](2024-07-27_14-45-05.jpg)
 
 This post is dedicated to my friend [**Kamil Vacek (Camo)**](https://www.vacekdesign.com) and his talent for making public spaces more pleasant places.
 
@@ -14,9 +14,9 @@ The shot was created by taking a [**photograph**](data/working folder) every 5 s
 Inspiration for the future:  
 Next time, it would be good to ensure that all photos are taken from the same angle, as the most work was involved in dealing with the fact that each shot was slightly tilted in a different direction, which significantly slowed down the stitching process. Ideally, some sort of stand with a wheel (or wheels) would be used to ensure that all photos are taken from the same distance, height, and angle.
 
-[**Stitched image in full resolution**](data/Camo-Whale.jpg)  
-![Stitched image in full resolution](data/Camo-Whale.jpg)  
+[**Stitched image in full resolution**](Camo-Whale.jpg)  
+![Stitched image in full resolution](Camo-Whale.jpg)  
 
-[**Panoramic image of the location**](data/20240724_180207.jpg)  
-![Panoramic image of the location](data/20240724_180207.jpg)
+[**Panoramic image of the location**](20240724_180207.jpg)  
+![Panoramic image of the location](20240724_180207.jpg)
 

@@ -9,7 +9,7 @@ Graffiti je namalováno na zdi v [**Zemské ulici v Teplicích**](https://www.go
 
 Cílem tohoto počinu bylo získat namísto klasické panoramatické fotografie jeden dlouhý snímek, který by nebyl deformovaný.
 
-Snímek vznikal tak, že co 5 kroků byla pořízena [**fotografie**](data/working folder), které následně byly pospojovány ve Photoshopu.
+Snímek vznikal tak, že co 5 kroků byla pořízena [**fotografie**](data/working folder) , které následně byly pospojovány ve Photoshopu.
 
 Inspirace do budoucna:  
 Pro příště by to chtělo zajistit, aby fotky byly foceny všechny ze stejného úhlu, protože nejvíce práce bylo právě s tím, že každý snímek je lehce hnut jiným směrem, což jejich spojení značně zpomalilo.
